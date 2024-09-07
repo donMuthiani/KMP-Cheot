@@ -1,0 +1,5 @@
+org.muthiani.kmpcheot.shared.test.shared-androidTest-0 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/shared/build/generated/res/resValues/androidTest/debug
+org.muthiani.kmpcheot.shared.test.shared-mergeDebugAndroidTestResources-1 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+org.muthiani.kmpcheot.shared.test.shared-mergeDebugAndroidTestResources-2 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+org.muthiani.kmpcheot.shared.test.shared-merged_res-3 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/shared/build/intermediates/merged_res/debugAndroidTest
+org.muthiani.kmpcheot.shared.test.shared-packaged_res-4 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/shared/build/intermediates/packaged_res/debug

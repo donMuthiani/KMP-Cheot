@@ -1,0 +1,49 @@
+org.muthiani.kmpcheot.composeApp-animation-core-release-0 /Users/donmuthiani/.gradle/caches/transforms-4/01e1be8e92b9e4e877c59c9fac4d929f/transformed/animation-core-release/res
+org.muthiani.kmpcheot.composeApp-lifecycle-viewmodel-release-1 /Users/donmuthiani/.gradle/caches/transforms-4/07429dd973ff61a328654b935db967d2/transformed/lifecycle-viewmodel-release/res
+org.muthiani.kmpcheot.composeApp-material-release-2 /Users/donmuthiani/.gradle/caches/transforms-4/07c2ed2a0ca35a2e6125448ae69be9ff/transformed/material-release/res
+org.muthiani.kmpcheot.composeApp-lifecycle-runtime-ktx-release-3 /Users/donmuthiani/.gradle/caches/transforms-4/0a1af2cf52114ce768571550a7904d12/transformed/lifecycle-runtime-ktx-release/res
+org.muthiani.kmpcheot.composeApp-foundation-layout-release-4 /Users/donmuthiani/.gradle/caches/transforms-4/0b41fb670b3c23904478cc7f73f76f62/transformed/foundation-layout-release/res
+org.muthiani.kmpcheot.composeApp-annotation-experimental-1.4.0-5 /Users/donmuthiani/.gradle/caches/transforms-4/0b76ee62667510cb621ed9b908c3a2ea/transformed/annotation-experimental-1.4.0/res
+org.muthiani.kmpcheot.composeApp-lifecycle-viewmodel-ktx-2.8.5-6 /Users/donmuthiani/.gradle/caches/transforms-4/1f3a1b8232623942fc55362d2d1e3221/transformed/lifecycle-viewmodel-ktx-2.8.5/res
+org.muthiani.kmpcheot.composeApp-lifecycle-process-2.8.5-7 /Users/donmuthiani/.gradle/caches/transforms-4/2580b196d07169edec1c1cc48296fad9/transformed/lifecycle-process-2.8.5/res
+org.muthiani.kmpcheot.composeApp-ui-text-release-8 /Users/donmuthiani/.gradle/caches/transforms-4/277597004d49f6f963422ccbdd87ac7c/transformed/ui-text-release/res
+org.muthiani.kmpcheot.composeApp-material-icons-core-release-9 /Users/donmuthiani/.gradle/caches/transforms-4/32c8e74585f216adb59016bc408a5451/transformed/material-icons-core-release/res
+org.muthiani.kmpcheot.composeApp-core-1.13.0-10 /Users/donmuthiani/.gradle/caches/transforms-4/378bfa8009a6b67e2dbadbdc693ec8d6/transformed/core-1.13.0/res
+org.muthiani.kmpcheot.composeApp-lifecycle-viewmodel-savedstate-2.8.5-11 /Users/donmuthiani/.gradle/caches/transforms-4/391b513bb745d24ead9b966810589423/transformed/lifecycle-viewmodel-savedstate-2.8.5/res
+org.muthiani.kmpcheot.composeApp-startup-runtime-1.1.1-12 /Users/donmuthiani/.gradle/caches/transforms-4/396c09e45f2852b330c2d12e642c9967/transformed/startup-runtime-1.1.1/res
+org.muthiani.kmpcheot.composeApp-ui-geometry-release-13 /Users/donmuthiani/.gradle/caches/transforms-4/397adec76c92ac041d1b82cd67ecf781/transformed/ui-geometry-release/res
+org.muthiani.kmpcheot.composeApp-animation-release-14 /Users/donmuthiani/.gradle/caches/transforms-4/3e7c1f13b3867513eb9bdcf708c72391/transformed/animation-release/res
+org.muthiani.kmpcheot.composeApp-emoji2-1.3.0-15 /Users/donmuthiani/.gradle/caches/transforms-4/458c65e701ac00c3f37c93ad686a73e6/transformed/emoji2-1.3.0/res
+org.muthiani.kmpcheot.composeApp-foundation-release-16 /Users/donmuthiani/.gradle/caches/transforms-4/512eb2d86db3c068dabf684202a729d1/transformed/foundation-release/res
+org.muthiani.kmpcheot.composeApp-activity-ktx-1.9.1-17 /Users/donmuthiani/.gradle/caches/transforms-4/5384e8e8dff764685e74356d4b2763e9/transformed/activity-ktx-1.9.1/res
+org.muthiani.kmpcheot.composeApp-profileinstaller-1.3.1-18 /Users/donmuthiani/.gradle/caches/transforms-4/609bd11bfe898f6952fabae19340a4ac/transformed/profileinstaller-1.3.1/res
+org.muthiani.kmpcheot.composeApp-material-ripple-release-19 /Users/donmuthiani/.gradle/caches/transforms-4/69ec25af852e4823028ee91ea3bc1bdd/transformed/material-ripple-release/res
+org.muthiani.kmpcheot.composeApp-ui-tooling-data-release-20 /Users/donmuthiani/.gradle/caches/transforms-4/7190149ec07af12570433f2770cd59bd/transformed/ui-tooling-data-release/res
+org.muthiani.kmpcheot.composeApp-lifecycle-viewmodel-compose-release-21 /Users/donmuthiani/.gradle/caches/transforms-4/7479c8fbe9187b4caea479d3501aa699/transformed/lifecycle-viewmodel-compose-release/res
+org.muthiani.kmpcheot.composeApp-ui-tooling-release-22 /Users/donmuthiani/.gradle/caches/transforms-4/82527e623fcc1c5d9bf83b9f79f4c3ce/transformed/ui-tooling-release/res
+org.muthiani.kmpcheot.composeApp-core-ktx-1.13.0-23 /Users/donmuthiani/.gradle/caches/transforms-4/854667375bd1173d203454e609b4f832/transformed/core-ktx-1.13.0/res
+org.muthiani.kmpcheot.composeApp-runtime-saveable-release-24 /Users/donmuthiani/.gradle/caches/transforms-4/8857a759f9863567b7c0bda71125c5d8/transformed/runtime-saveable-release/res
+org.muthiani.kmpcheot.composeApp-core-runtime-2.2.0-25 /Users/donmuthiani/.gradle/caches/transforms-4/9548079fc0fdce9a7bd745864d7a7a7f/transformed/core-runtime-2.2.0/res
+org.muthiani.kmpcheot.composeApp-lifecycle-runtime-release-26 /Users/donmuthiani/.gradle/caches/transforms-4/a456730f0d32678af29bdc35978dc3fc/transformed/lifecycle-runtime-release/res
+org.muthiani.kmpcheot.composeApp-ui-release-27 /Users/donmuthiani/.gradle/caches/transforms-4/a4bb07733514b79fb89c61eb46fd0172/transformed/ui-release/res
+org.muthiani.kmpcheot.composeApp-runtime-release-28 /Users/donmuthiani/.gradle/caches/transforms-4/a7b0978cb2527f159fba12165f0c91fa/transformed/runtime-release/res
+org.muthiani.kmpcheot.composeApp-savedstate-1.2.1-29 /Users/donmuthiani/.gradle/caches/transforms-4/af63314437e2a0c3175a7cbba16f5f04/transformed/savedstate-1.2.1/res
+org.muthiani.kmpcheot.composeApp-lifecycle-livedata-core-2.8.5-30 /Users/donmuthiani/.gradle/caches/transforms-4/b1104eb06e724319c46cfbdd0155da79/transformed/lifecycle-livedata-core-2.8.5/res
+org.muthiani.kmpcheot.composeApp-ui-graphics-release-31 /Users/donmuthiani/.gradle/caches/transforms-4/cb076d8283898250777029f80995f9d5/transformed/ui-graphics-release/res
+org.muthiani.kmpcheot.composeApp-activity-1.9.1-32 /Users/donmuthiani/.gradle/caches/transforms-4/cbf1bdbe8d7d04e28bdfcf25719a4b58/transformed/activity-1.9.1/res
+org.muthiani.kmpcheot.composeApp-lifecycle-runtime-compose-release-33 /Users/donmuthiani/.gradle/caches/transforms-4/d84dfaaac3176e02d121c8025c6c9140/transformed/lifecycle-runtime-compose-release/res
+org.muthiani.kmpcheot.composeApp-activity-compose-1.9.1-34 /Users/donmuthiani/.gradle/caches/transforms-4/d9f2e3ebf4c87994b11bc704d16ba5c7/transformed/activity-compose-1.9.1/res
+org.muthiani.kmpcheot.composeApp-customview-poolingcontainer-1.0.0-35 /Users/donmuthiani/.gradle/caches/transforms-4/ec453801cfa508ee0aed8d0fd6e638fd/transformed/customview-poolingcontainer-1.0.0/res
+org.muthiani.kmpcheot.composeApp-ui-unit-release-36 /Users/donmuthiani/.gradle/caches/transforms-4/ed6c24dc888e07abbd55e05b1ea371d5/transformed/ui-unit-release/res
+org.muthiani.kmpcheot.composeApp-savedstate-ktx-1.2.1-37 /Users/donmuthiani/.gradle/caches/transforms-4/f54ef44e342cff460178dbbfa238757d/transformed/savedstate-ktx-1.2.1/res
+org.muthiani.kmpcheot.composeApp-ui-tooling-preview-release-38 /Users/donmuthiani/.gradle/caches/transforms-4/f72723489410968cc1074a9bad6ffdc3/transformed/ui-tooling-preview-release/res
+org.muthiani.kmpcheot.composeApp-ui-util-release-39 /Users/donmuthiani/.gradle/caches/transforms-4/fe756f77ad0d1ecf940caf9680b0328d/transformed/ui-util-release/res
+org.muthiani.kmpcheot.composeApp-pngs-40 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/build/generated/res/pngs/debug
+org.muthiani.kmpcheot.composeApp-resValues-41 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/build/generated/res/resValues/debug
+org.muthiani.kmpcheot.composeApp-packageDebugResources-42 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+org.muthiani.kmpcheot.composeApp-packageDebugResources-43 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+org.muthiani.kmpcheot.composeApp-merged_res-44 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/build/intermediates/merged_res/debug
+org.muthiani.kmpcheot.composeApp-androidMain-45 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/src/androidMain/res
+org.muthiani.kmpcheot.composeApp-debug-46 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/src/debug/res
+org.muthiani.kmpcheot.composeApp-main-47 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/src/main/res
+org.muthiani.kmpcheot.composeApp-packaged_res-48 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/shared/build/intermediates/packaged_res/debug

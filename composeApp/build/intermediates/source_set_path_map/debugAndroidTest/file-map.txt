@@ -1,0 +1,4 @@
+org.muthiani.kmpcheot.test.composeApp-androidTest-0 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/build/generated/res/resValues/androidTest/debug
+org.muthiani.kmpcheot.test.composeApp-mergeDebugAndroidTestResources-1 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+org.muthiani.kmpcheot.test.composeApp-mergeDebugAndroidTestResources-2 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+org.muthiani.kmpcheot.test.composeApp-merged_res-3 /Users/donmuthiani/Documents/KMP/KMP Cheot Pro/composeApp/build/intermediates/merged_res/debugAndroidTest

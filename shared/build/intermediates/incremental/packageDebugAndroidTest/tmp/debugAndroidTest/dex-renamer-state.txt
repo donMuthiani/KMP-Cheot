@@ -1,0 +1,10 @@
+#Sat Sep 07 15:47:56 EAT 2024
+base.0=/Users/donmuthiani/Documents/KMP/KMP Cheot Pro/shared/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/donmuthiani/Documents/KMP/KMP Cheot Pro/shared/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/13/classes.dex
+base.2=/Users/donmuthiani/Documents/KMP/KMP Cheot Pro/shared/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=classes.dex
+path.1=13/classes.dex
+path.2=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
